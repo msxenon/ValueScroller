@@ -1,7 +1,6 @@
-# scrollervaluepicker
+# Value Picker Scroller (VPS widget)
 
-A new Flutter package.
-
+inspired by apple photo editing scroller
 ## Getting Started
 
 This project is a starting point for a Dart
